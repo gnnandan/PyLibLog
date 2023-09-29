@@ -16,7 +16,7 @@ Teaching and sharing information about Python libraries through blog posts. Thes
 5. Kumari Ranjana Yada🇻
 6. Sravani 
 
-<h2 align = "center">Git Commands</h2>
+### Git Commands
 
 1. git flow -h (gives the list of sub commands)
 2. git flow init (initializes the repository)
